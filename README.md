@@ -1,4 +1,4 @@
-# MSLA Cyclop Printer !
+# SLA Cyclop Printer !
 <p align="center">
 <img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
 <img src="https://github.com/user-attachments/assets/457f03d9-dadc-47b4-896c-9f4e8908a603" height="250">
